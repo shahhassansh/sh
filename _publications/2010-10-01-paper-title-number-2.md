@@ -5,5 +5,3 @@ permalink: /publication/Transformer_StarCraft.pdf
 venue: '2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)'
 paperurl: 'https://arxiv.org/abs/2110.05343'
 ---
-
-[Download paper here](https://arxiv.org/abs/2110.05343)

@@ -6,5 +6,3 @@ venue: '2022 7th International Congress on Information and Communication Technol
 paperurl: 'https://www.crcv.ucf.edu/wp-content/uploads/2018/11/paper.pdf'
 ---
 
-[Download paper here](https://www.crcv.ucf.edu/wp-content/uploads/2018/11/paper.pdf)
-
