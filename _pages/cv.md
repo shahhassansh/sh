@@ -12,4 +12,4 @@ redirect_from:
 # <i class="fa fa-fw fa-file "></i> Curriculum Vitae #
 
 
-[Click here to view Resume (Last Updated: 2020) [PDF]](http://zczcwh.github.io/files/Shah_Hassan_CV.pdf)
+[Click here to view Resume (Last Updated: 2020) [PDF]](http://shahhassansh.github.io/sh/files/Shah_Hassan_CV.pdf)
