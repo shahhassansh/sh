@@ -6,7 +6,7 @@ permalink: /publication/2streamtcr
 date: 2020-08-28
 venue: "ICIP 2021"
 paperurl: https://arxiv.org/abs/2009.00164"
-citation: Md Jibanul Haque Jiban,<b>Shah Hassan</b>, Abhijit Mahalanobis. "Two-Stream Boosted TCRNet for Range-Tolerant Infra-Red Target Detection". <i>(ICIP 2020)</i>. '
+citation: 'Md Jibanul Haque Jiban,<b>Shah Hassan</b>, Abhijit Mahalanobis. "Two-Stream Boosted TCRNet for Range-Tolerant Infra-Red Target Detection". <i>(ICIP 2020)</i>. '
 ---
 # Two-Stream Boosted TCRNet for Range-Tolerant Infra-Red Target Detection
 

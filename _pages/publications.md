@@ -13,18 +13,18 @@ author_profile: true
 <a href="http://shahhassansh.github.io/sh/publications/"></a>
 <b><a href="http://shahhassansh.github.io/sh/publications/2streamtcr"> Two-Stream Boosted TCRNet for Range-Tolerant Infra-Red Target Detection </a></b><br>
 Md Jibanul Haque Jiban,<b>Shah Hassan</b>, Abhijit Mahalanobis.
- on <b>arXiv</b>.<br>
+ on <b>ICIP 2021</b>.<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/9506170">Paper</a>]
 <br clear="left">
 </p>
 
 
 <p>
-<a href="http://zczcwh.github.io/publications/HPEsurvey"></a>
-<b><a href="http://zczcwh.github.io/publications/HPEsurvey"> Deep Learning-Based Human Pose Estimation: A Survey</a></b><br>
-<b>Ce Zheng</b>∗, Wenhan Wu∗, Taojiannan Yang, Sijie Zhu, Chen Chen, Ruixu Liu, Ju Shen, Nasser Kehtarnavaz, Mubarak Shah. 
- on <b>arXiv</b>.<br>
-[<a href="https://arxiv.org/pdf/2012.13392.pdf">Paper</a>]
+<a href="http://shahhassansh.github.io/sh/publications/starcraft"></a>
+<b><a href="http://shahhassansh.github.io/sh/publications/starcraft"> Leveraging Transformers for StarCraft Macromanagement Prediction</a></b><br>
+Muhammad Junaid Khan, <b>Shah Hassan</b>, Gita Sukthankar. 
+<b>ICMLA 2021</b>.<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/9680028">Paper</a>]
 <br clear="left">
 </p>
 
