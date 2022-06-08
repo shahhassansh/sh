@@ -1,23 +1,33 @@
 ---
-title: "3D Human Pose Estimation with Spatial and Temporal Transformers"
+title: "Performance Evaluation of Boosted 2-stream TCRNet"
 collection: publications
-permalink: /publication/PoseFormer
+permalink: /publication/performer_tcr
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2021-03-18
-venue: "arxiv 2021"
-paperurl: https://arxiv.org/pdf/2103.10455.pdf"
+venue: "ICICT 2022"
+paperurl: "https://www.crcv.ucf.edu/wp-content/uploads/2018/11/paper.pdf"
 
-citation: '<b>Ce Zheng</b>, Sijie Zhu, Matias Mendieta, Taojiannan Yang, Chen Chen, Zhengming Ding. "3D Human Pose Estimation with Spatial and Temporal Transformers". <i>(Arxiv 2021)</i>. '
+citation: '<b>Shah Hassan</b>, Md Jibanul Haque Jiban, Abhijit Mahalanobis. "Performance Evaluation of Boosted 2-stream TCRNet". <i>(ICICT 2022)</i>. '
 ---
-# 3D Human Pose Estimation with Spatial and Temporal Transformers
+# Performance Evaluation of Boosted 2-stream TCRNet
 
-[<a href="https://arxiv.org/pdf/2103.10455.pdf">Paper</a>]
+[<a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/paper.pdf">Paper</a>]
 
 
 
 ## Abstract
-Transformer architectures have become the model of choice in natural language processing and are now being introduced into computer vision tasks such as image classification, object detection, and semantic segmentation. However, in the field of human pose estimation, convolutional architectures still remain dominant. In this work, we present PoseFormer, a purely transformer-based approach for 3D human pose estimation in videos without convolutional architectures involved. Inspired by recent developments in vision transformers, we design a spatial-temporal transformer structure to comprehensively model the human joint relations within each frame as well as the temporal correlations across frames, then output an accurate 3D human pose of the center frame. We quantitatively and qualitatively evaluate our method on two popular and standard benchmark datasets: Human3.6M and MPI-INF-3DHP. Extensive experiments show that PoseFormer achieves state-of-the-art performance on both datasets. 
+Target detection in infra-red imagery is a particularly challenging problem due to the presence of terrain clutter. The TCRNet-2
+CNN architecture was introduced to combat this issue, and has been
+shown to perform better than conventional networks such as faster RCNN
+and YOLOv3 . In this paper, we evaluate the performance of the boosted
+2-stream TCRNet in detail (including robustness to range variations,
+performance under day and night conditions) and compare it with that
+of YOLOv5. A MWIR data set released by DSIAC is used for training
+and testing the network. We also propose the MWIR Target classifier
+that recognizes the 10 classes in the NVESD Dataset and achieves an
+accuracy of 65.72% which is state-of-the-art to date. 
 
+<!--
 ## Citation
     @article{zheng20213d,
       title={3D Human Pose Estimation with Spatial and Temporal Transformers},
@@ -25,3 +35,5 @@ Transformer architectures have become the model of choice in natural language pr
       journal={arXiv preprint arXiv:2103.10455},
       year={2021}
     }
+
+-->

@@ -31,11 +31,11 @@ Muhammad Junaid Khan, <b>Shah Hassan</b>, Gita Sukthankar.
 [comment]: <> ## Conference Papers ##
 
 <p>
-<a href="http://zczcwh.github.io/publications/LodoNet"></a>
-<b><a href="http://zczcwh.github.io/publications/LodoNet"> LodoNet: A Deep Neural Network with 2D Keypoint Matchingfor 3D LiDAR Odometry Estimation</a></b><br>
-<b>Ce Zheng</b>, Yecheng lyu, Ming Li, Ziming Zhang. 
-  <b>ACM Multimedia 2020</b>.<br>
-[<a href="https://arxiv.org/abs/2009.00164">Paper</a>]
+<a href="http://shahhassansh.github.io/sh/publications/performer_tcr"></a>
+<b><a href="http://shahhassansh.github.io/sh/publications/performer_tcr"> Performance Evaluation of Boosted 2-stream TCRNet</a></b><br>
+<b>Shah Hassan</b>, Md Jibanul Haque Jiban, Abhijit Mahalanobis. 
+  <b>ICICT 2022</b>.<br>
+[<a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/paper.pdf">Paper</a>]
 <br clear="left">
 </p>
 
