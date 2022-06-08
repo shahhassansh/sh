@@ -10,11 +10,11 @@ author_profile: true
 [comment]: <> ## Preprint ##
 
 <p>
-<a href="http://zczcwh.github.io/publications/poseformer"></a>
-<b><a href="http://zczcwh.github.io/publications/poseformer"> 3D Human Pose Estimation with Spatial and Temporal Transformers </a></b><br>
-<b>Ce Zheng</b>, Sijie Zhu, Matias Mendieta, Taojiannan Yang, Chen Chen, Zhengming Ding.
+<a href="http://shahhassansh.github.io/sh/publications/"></a>
+<b><a href="http://shahhassansh.github.io/sh/publications/2streamtcr"> Two-Stream Boosted TCRNet for Range-Tolerant Infra-Red Target Detection </a></b><br>
+Md Jibanul Haque Jiban,<b>Shah Hassan</b>, Abhijit Mahalanobis.
  on <b>arXiv</b>.<br>
-[<a href="https://arxiv.org/pdf/2103.10455.pdf">Paper</a>]
+[<a href="https://ieeexplore.ieee.org/abstract/document/9506170">Paper</a>]
 <br clear="left">
 </p>
 
