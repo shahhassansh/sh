@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ce Zheng"
+title                    : "Shah Hassan"
 title_separator          : "-"
-name                     : &name "Ce Zheng"
+name                     : &name "Shah Hassan"
 description              : &description "Ph.D. student at The University of Central Florida"
-url                      : https://zczcwh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shahhassansh.github.io/sh # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zczcwh.github.io"
+repository               : "shahhassansh.github.io/sh"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ce Zheng"
-  avatar           : "profile.jpg"
+  name             : "Shah Hassan"
+  avatar           : "profile.png"
   bio              : "Ph.D. student at The University of Central Florida, interested in computer vision and deep learning"
-  location         : "Orlando, Florida"
+  location         : "Seattle, Washington"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YFKLC58AAAAJ&hl=en&oi=sra"
-  email            : "cezheng@knights.ucf.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=y53nuS4AAAAJ&hl=en"
+  email            : "shahhassan@knights.ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zczcwh"
+  github           : "shahhassansh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # example: "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ce-zheng-234a98119"
+  linkedin         : "shahhassansh"
   orcid            : 
   pinterest        :
   soundcloud       :
