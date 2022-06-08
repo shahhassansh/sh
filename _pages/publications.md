@@ -7,7 +7,7 @@ author_profile: true
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
-## Preprint ##
+[comment]: <> ## Preprint ##
 
 <p>
 <a href="http://zczcwh.github.io/publications/poseformer"></a>
@@ -28,7 +28,7 @@ author_profile: true
 <br clear="left">
 </p>
 
-## Conference Papers ##
+[comment]: <> ## Conference Papers ##
 
 <p>
 <a href="http://zczcwh.github.io/publications/LodoNet"></a>
@@ -39,7 +39,7 @@ author_profile: true
 <br clear="left">
 </p>
 
-
+<!---
 ## Dissertation ##
 
 <p>
@@ -49,3 +49,5 @@ author_profile: true
 [<a href="https://search.proquest.com/openview/f86134abd0f33384d4230088d6366890/1?cbl=18750&diss=y&pq-origsite=gscholar">Paper</a>]
 <br clear="left">
 </p>
+
+-->
