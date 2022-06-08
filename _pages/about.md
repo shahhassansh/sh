@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I'm a Ph.D. student at [Center for Research in Computer Vision (CRCV)](https://www.crcv.ucf.edu/) of University of Central Florida (UCF) under the supervision of [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/). Before joining UCF, I obtained my Master's degree in Department of Computer Science at University of Central Florida in 2020, advised by [Prof. Yan Solihin](https://sites.google.com/view/arpers). I received my Bachelor's Degree in Department of Computer Science at Lahore University of Management Sciences in 2014.
+* I'm a Ph.D. student at [Center for Research in Computer Vision (CRCV)](https://www.crcv.ucf.edu/) of University of Central Florida (UCF) under the supervision of [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/). Before starting my PhD, I obtained my Master's degree in Computer Science from University of Central Florida (UCF) in 2020, advised by [Prof. Yan Solihin](https://sites.google.com/view/arpers). I received my Bachelor's Degree in Department of Computer Science at Lahore University of Management Sciences (LUMS) in 2014.
 
 <!---
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
