@@ -7,7 +7,7 @@ date: 2020-12-24
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9680028"
 citation: 'Muhammad Junaid Khan, <b>Shah Hassan</b>, Gita Sukthankar.  "Leveraging Transformers for StarCraft Macromanagement Prediction".<i>(ICMLA 2021)</i>. '
 ---
-# Deep Learning-Based Human Pose Estimation: A Survey
+# Leveraging Transformers for StarCraft Macromanagement Prediction
 
 [<a href="https://ieeexplore.ieee.org/abstract/document/9680028">Paper</a>]
 

@@ -10,11 +10,11 @@ author_profile: true
 [comment]: <> ## Preprint ##
 
 <p>
-<a href="http://shahhassansh.github.io/sh/publications/"></a>
-<b><a href="http://shahhassansh.github.io/sh/publications/2streamtcr"> Two-Stream Boosted TCRNet for Range-Tolerant Infra-Red Target Detection </a></b><br>
-Md Jibanul Haque Jiban,<b>Shah Hassan</b>, Abhijit Mahalanobis.
- on <b>ICIP 2021</b>.<br>
-[<a href="https://ieeexplore.ieee.org/abstract/document/9506170">Paper</a>]
+<a href="http://shahhassansh.github.io/sh/publications/performer_tcr"></a>
+<b><a href="http://shahhassansh.github.io/sh/publications/performer_tcr"> Performance Evaluation of Boosted 2-stream TCRNet</a></b><br>
+<b>Shah Hassan</b>, Md Jibanul Haque Jiban, Abhijit Mahalanobis. 
+<b>ICICT 2022</b>.<br>
+[<a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/paper.pdf">Paper</a>]
 <br clear="left">
 </p>
 
@@ -31,11 +31,11 @@ Muhammad Junaid Khan, <b>Shah Hassan</b>, Gita Sukthankar.
 [comment]: <> ## Conference Papers ##
 
 <p>
-<a href="http://shahhassansh.github.io/sh/publications/performer_tcr"></a>
-<b><a href="http://shahhassansh.github.io/sh/publications/performer_tcr"> Performance Evaluation of Boosted 2-stream TCRNet</a></b><br>
-<b>Shah Hassan</b>, Md Jibanul Haque Jiban, Abhijit Mahalanobis. 
-  <b>ICICT 2022</b>.<br>
-[<a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/paper.pdf">Paper</a>]
+<a href="http://shahhassansh.github.io/sh/publications/"></a>
+<b><a href="http://shahhassansh.github.io/sh/publications/2streamtcr"> Two-Stream Boosted TCRNet for Range-Tolerant Infra-Red Target Detection </a></b><br>
+Md Jibanul Haque Jiban,<b>Shah Hassan</b>, Abhijit Mahalanobis.
+<b>ICIP 2021</b>.<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/9506170">Paper</a>]
 <br clear="left">
 </p>
 
