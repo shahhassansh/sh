@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Academic Page"
+title                    : "Ce Zheng"
 title_separator          : "-"
-name                     : &name "Shah Hassan"
-description              : &description "personal description"
-url                      : https://shahhassansh.github.io/sh # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ce Zheng"
+description              : &description "Ph.D. student at The University of Central Florida"
+url                      : https://zczcwh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://shahhassansh.github.io/sh"
+repository               : "zczcwh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -37,6 +37,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
+  
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
@@ -80,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shah Hassan"
-  avatar           : profile.png
-  bio              : "PhD Candidate at University of Central Florida (UCF) under the supervision of Dr. Chen Chen"
-  location         : "Seattle, WA"
+  name             : "Ce Zheng"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. student at The University of Central Florida, interested in computer vision and deep learning"
+  location         : "Orlando, Florida"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=y53nuS4AAAAJ&hl=en
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=YFKLC58AAAAJ&hl=en&oi=sra"
+  email            : "cezheng@knights.ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : shahhassansh
+  github           : "zczcwh"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # example: "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "ce-zheng-234a98119"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # example: "http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : # example: "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -176,13 +177,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -207,33 +211,40 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  #- scope:
-  #    path: ""
-  #    type: teaching
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
-  #- scope:
-  #    path: ""
-  #    type: publications
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
-
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -300,4 +311,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
